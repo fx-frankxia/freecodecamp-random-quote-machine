@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "author": "John Lennon",
+        "quote": "Life is what happens when you're busy making other plans."
+    },
+    {
+        "id": 1,
+        "author": "Stephen King",
+        "quote": "Get busy living or get busy dying."
+    },
+    {
+        "id": 2,
+        "author": "Mae West",
+        "quote": "You only live once, but if you do it right, once is enough."
+    },
+    {
+        "id": 3,
+        "author": "Thomas A. Edison",
+        "quote":  "Many of life’s failures are people who did not realize how close they were to success when they gave up."
+    },
+    {
+        "id": 4,
+        "author": "Albert Einstein",
+        "quote": "If you want to live a happy life, tie it to a goal, not to people or things."
+    }
+]
